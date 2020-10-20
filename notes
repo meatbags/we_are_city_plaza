@@ -1,0 +1,55 @@
+Problem
+	
+	. current site feels "list-like"
+	. many projects and a lot of information
+	. unused images
+	. information presented poorly
+	. limited functionality
+	. structural
+		. About Us
+		. Slate (Projects in Development)
+		. Completed Films
+		. The Delaval Story
+		. Submissions
+		. News
+
+Solution
+
+	. trendy homepage design
+	. reduce information/ break up
+	. add users functionality
+	. easy-to-use custom CMS
+	
+Wireframe Hierachy
+
+	. home	. news		. list OR page per article
+			. films		. list OR page per film
+			. upcoming	. list OR page per project
+			. about		. about (broad)
+						. team
+						. story
+			. submit	. log in
+						. register
+						. profile
+						. submissions
+
+CMS Custom Admin
+
+	CMS		Site	Fields
+	
+	Pages	-
+	Posts	News	Title/ Desc/ Date/ Author/ Image
+	Films	Films	Title/ Desc/ Crew/ Vimeo/ URL/ Awards/ Release Date/ Image/ Gallery
+	Slate	Slate	Title/ Desc/ Crew/ Vimeo/ URL/ Release Date/ Image/ Gallery
+	About	About	.../ .../ .../
+
+Fave links
+	
+	https://fieldartists.net/
+	http://blueraincoatmusic.com
+	
+Also likes elements from
+	
+	http://www.forgoodmeasure.us/
+	http://sylvainboutoille.fr/
+	https://theoutline.com/

@@ -1,0 +1,9 @@
+[10-Apr-2017 09:27:28 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[02-Jul-2017 10:55:40 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[20-Aug-2017 14:21:19 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[20-Aug-2017 15:01:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[20-Aug-2017 15:01:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[22-Aug-2017 03:59:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[23-Aug-2017 01:39:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[24-Aug-2017 03:19:56 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
+[28-Aug-2017 02:06:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/jxburrow/wearecityplaza.com/wp-content/themes/cityplaza/index.php on line 1
